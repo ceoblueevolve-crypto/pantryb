@@ -1,0 +1,6 @@
+{
+  "name": "Pantry Inventory",
+  "description": "Transform your household into an organized smart kitchen with real-time pantry inventory tracking, automated restocking alerts, and shared family shopping lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
